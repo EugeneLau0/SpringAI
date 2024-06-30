@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    ai:
+      tongyi:
+        chat:
+          options:
+            # 通义千问 API Key
+            api-key: your key
